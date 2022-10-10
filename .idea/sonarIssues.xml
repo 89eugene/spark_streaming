@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spark_kafka/src/main/scala/otus/KafkaProducer.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.sbt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/otus/IrisMLStreaming.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cc-api-aggregator/src/main/kotlin/ru/vtb/msa/creditcards/ccapiaggregator/controllers/CcApplicationControllerV2.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cc-api-aggregator/src/main/kotlin/ru/vtb/msa/creditcards/ccapiaggregator/controllers/advices/InternalServerErrorHandler.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cc-api-aggregator/src/main/kotlin/ru/vtb/msa/creditcards/ccapiaggregator/controllers/advices/UnprocessableEntityHandler.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cc-api-aggregator/src/main/kotlin/ru/vtb/msa/creditcards/ccapiaggregator/dto/partners/PartnerFullFormRequest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cc-api-gateway/src/main/java/ru/vtb/msa/creditcards/ccapigateway/filter/CcApplicationCustomHeaderFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cc-applications/backend/src/main/java/ru/vtb/msa/creditcards/ccapplications/handlers/externaltasks/partners/PartnersCreatePersonExternalTaskHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cc-applications/backend/src/main/java/ru/vtb/msa/creditcards/ccapplications/mappers/EpaPersonMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cc-applications/backend/src/main/java/ru/vtb/msa/creditcards/ccapplications/service/EpaPersonApplicationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cc-applications/backend/src/test/java/ru/vtb/msa/creditcards/ccapplications/client/CcApplicationsBpmClientTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cc-applications/backend/src/test/java/ru/vtb/msa/creditcards/ccapplications/mappers/EpaPersonMapperTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/cc-applications/backend/target/generated-sources/annotations/ru/vtb/msa/creditcards/ccapplications/mappers/EpaPersonMapperImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console-ui/src/pages/home/index.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/endpoint/v1/api/ShortApplicationApiImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/endpoint/v1/mapper/ShortApplicationMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/entity/ApplicationFl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/entity/ApplicationSummary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/entity/ShortApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/entity/ShortApplicationHistory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/entity/ShortApplicationHistoryId.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/entity/ShortApplicationId.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/entity/StorageProcessingApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/repository/ShortApplicationHistoryRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/repository/ShortApplicationRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/repository/StorageProcessingApplicationRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/repository/SummaryRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/service/ShortApplicationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/resources/api/short-application-api.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/resources/migration/V3__create_application_fl_table.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/resources/migration/V3__create_application_short_table.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/resources/migration/V4__create_application_short_table.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/resources/migration/V4__create_application_summary_table.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/resources/migration/V5__create_application_fl_table.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/resources/migration/V5__create_application_summary_table.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/resources/migration/V5__create_short_history_table.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/src/main/resources/migration/V6__create_short_history_table.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/target/generated-sources/annotations/ru/vtb/msa/creditcards/ccppsupportconsole/endpoint/v1/mapper/DefaultShortApplicationMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/target/generated-sources/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/endpoint/v1/api/ApikApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/target/generated-sources/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/endpoint/v1/api/ApplicationsApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/target/generated-sources/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/endpoint/v1/model/ApplicationShortDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/target/generated-sources/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/endpoint/v1/model/Card.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/target/generated-sources/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/endpoint/v1/model/Filter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/target/generated-sources/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/endpoint/v1/model/FilterResponseDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ccpp-support-console/target/generated-sources/src/main/java/ru/vtb/msa/creditcards/ccppsupportconsole/endpoint/v1/model/RegisterData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
